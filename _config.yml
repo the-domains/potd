@@ -1,4 +1,3 @@
-layout_spectrum: 0.09222619934007525
 typography_spectrum: 0.9828864163719118
 color:
   brandStrength: 0.34524675109423697
@@ -11,4 +10,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.09222619934007525
 name: POTD
+title: Photos by Nate
