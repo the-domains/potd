@@ -18,5 +18,9 @@ author:
   email: nate@designatemedia.com
   url: designatemedia.com
 name: POTD
+navigation:
+  - name: Winter Storm on the Horseshoe
+    id: d272755e-6d90-43c7-bac6-2177d1b4d8e5
+    type: content
 title: Photos by Nate
 description: Creative Project for 2016
