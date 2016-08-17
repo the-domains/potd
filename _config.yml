@@ -6,9 +6,9 @@ color:
   saturation: 0.20641253632493317
   rhythmicContrast: 0.5058667419943959
   brandColors:
-    - '#040301'
-    - '#FCE9CB'
-    - '#C3A881'
-    - '#DC3726'
-    - '#605B55'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: POTD
