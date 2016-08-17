@@ -10,7 +10,13 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+opengraph:
+  type: ''
 layout_spectrum: 0.09222619934007525
+author:
+  name: Nate Palmer
+  email: nate@designatemedia.com
+  url: designatemedia.com
 name: POTD
 title: Photos by Nate
 description: Creative Project for 2016
