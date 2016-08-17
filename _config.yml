@@ -1,0 +1,14 @@
+layout_spectrum: 0.09222619934007525
+typography_spectrum: 0.9828864163719118
+color:
+  brandStrength: 0.34524675109423697
+  lightness: 0.04427149100229144
+  saturation: 0.20641253632493317
+  rhythmicContrast: 0.5058667419943959
+  brandColors:
+    - '#040301'
+    - '#FCE9CB'
+    - '#C3A881'
+    - '#DC3726'
+    - '#605B55'
+name: POTD
